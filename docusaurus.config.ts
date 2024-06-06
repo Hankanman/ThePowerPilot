@@ -18,6 +18,8 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Hankanman', // Usually your GitHub org/user name.
   projectName: 'ThePowerPilot', // Usually your repo name.
+  deploymentBranch: 'main',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,6 +67,7 @@ const config: Config = {
         blogTitle: 'Projects',
         blogDescription: 'My Projects',
         showReadingTime: true,
+        blogSidebarTitle: 'Projects',
       },
     ],
   ],
