@@ -31,7 +31,8 @@
 			"streetsidesoftware.code-spell-checker",
 			"ms-vscode.wordcount",
 			"davidanson.vscode-markdownlint",
-			"eamodio.gitlens"
+			"eamodio.gitlens",
+			"github.vscode-github-actions"
 		]
 	}
 }
