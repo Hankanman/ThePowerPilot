@@ -3,7 +3,7 @@ title: Auto Release Notes
 description: ""
 date: 2024-06-06T11:52:31.221Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories: []
 type: default
