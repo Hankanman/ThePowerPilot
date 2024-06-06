@@ -19,7 +19,7 @@ You will need a PAID Open AI API key to run the script, support for other method
 
 ## Run as Azure DevOps Pipeline
 
-1. Copy the `Auto-Release-Notes.yml` file from [the pipelines directory of this repo](https://github.com/hankanman/Auto-Release-Notes/pipelines)
+1. Copy the `Auto-Release-Notes.yml` file from [the pipelines directory of this repo](/pipelines)
 2. Add it to the DevOps Repo you wish to run the notes for, it is recommended this is on the main branch of the repo, the trigger is set to run on update of the main branch by default
 3. Create a new pipeline in Azure DevOps
 4. Select "Azure Repos Git"

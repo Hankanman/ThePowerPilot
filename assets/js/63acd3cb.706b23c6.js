@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthe_power_pilot=self.webpackChunkthe_power_pilot||[]).push([[954],{5849:e=>{e.exports=JSON.parse('{"title":"Projects","items":[{"title":"Auto Release Notes","permalink":"/projects/2024/06/06/auto-release-notes","unlisted":false}]}')}}]);

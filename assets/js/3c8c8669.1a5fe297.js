@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthe_power_pilot=self.webpackChunkthe_power_pilot||[]).push([[919],{2182:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/projects","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"My Projects","blogTitle":"Projects"}}')}}]);
